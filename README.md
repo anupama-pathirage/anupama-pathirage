@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/anupama-pathirage/anupama-pathirage)](https://badges.pufler.dev/visits/anupama-pathirage/anupama-pathirage)
 
 **anupama-pathirage/anupama-pathirage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
