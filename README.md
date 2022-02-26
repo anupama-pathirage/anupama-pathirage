@@ -24,14 +24,14 @@ I'm a Directory of Engineering at WSO2.  I currently work as a Engineering Manag
 
 ### :blue_book: My Dzone Articles
 
-<!-- BLOG-POST-LIST:START -->
+- [7 Tips on writing good technical content](https://dzone.com/articles/7-tips-on-writing-good-technical-content)
 - [Real-Time Stock Data Updates with WebSockets using Ballerina](https://dzone.com/articles/real-time-stock-data-updates-with-websockets-using)
 - [Event-Driven APIs With Webhook and WebSub](https://dzone.com/articles/event-driven-apis-with-webhook-and-websub)
 - [Quickstart OpenAPI With Ballerina](https://dzone.com/articles/quickstart-openapi-with-ballerina)
 - [What Is Low-Code](https://dzone.com/articles/what-is-low-code-2)
 - [Data Integration With Ballerina](https://dzone.com/articles/data-integration-with-ballerina)
 - [Introduction to Data Integration With Ballerina](https://dzone.com/articles/introduction-to-data-integration-with-ballerina)  
-<!-- BLOG-POST-LIST:END -->
+
 
 ### 📝 My Latest Blog Posts in Medium
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anupama.pathirage/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anupama.pathirage/0" alt="Recent Article 0"></a>
