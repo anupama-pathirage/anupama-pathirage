@@ -16,6 +16,9 @@ I'm a Directory of Engineering at WSO2.  I currently work as a Engineering Manag
 </div>
 <br>
 
+[![An image of @anupamapathirage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anupamapathirage)](https://holopin.io/@anupamapathirage)
+
+
 ### 🌱 My Contributions So Far!
 ![github stats](https://github-readme-stats.vercel.app/api?username=anupama-pathirage&show_icons=true)
   <br>
